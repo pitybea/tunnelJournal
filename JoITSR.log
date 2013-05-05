@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2012.6.16)  30 APR 2013 22:14
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2012.6.12)  6 MAY 2013 00:34
 entering extended mode
 **JoITSR.tex
-(M:\JoITSrTunnel\JoITSR.tex
+(H:\tunnelJournal\JoITSR.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
-(M:\JoITSrTunnel\JoITSRstyle.cls
+(H:\tunnelJournal\JoITSRstyle.cls
 Document Class: JoITSRstyle 2010/10/13 v1.0 MVA2011 LaTeX class file
 (C:\CTEX\MiKTeX\tex\latex\base\article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
@@ -305,7 +305,7 @@ Package: ulem 2011/03/18
 (C:\CTEX\MiKTeX\tex\latex\ltxmisc\url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
-) (M:\JoITSrTunnel\JoITSR.aux)
+) (H:\tunnelJournal\JoITSR.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
@@ -410,7 +410,7 @@ File: 19veriTrjimg00041.jpg Graphic file (type eps)
  <19veriTrjimg00041.jpg>
 File: 3veriTrjimg00023.jpg Graphic file (type eps)
  <3veriTrjimg00023.jpg>
-(M:\JoITSrTunnel\JoITSR.bbl
+(H:\tunnelJournal\JoITSR.bbl
 
 Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
@@ -422,13 +422,13 @@ m/it/9 CVPR\OT1/cmr/m/n/9 ,
  []
 
 
-Overfull \hbox (0.42668pt too wide) in paragraph at lines 30--33
+Overfull \hbox (0.42668pt too wide) in paragraph at lines 37--40
 [][]\OT1/cmr/m/n/9 P. Felzen-szwal-b and D. Hut-ten-locher.  Pic-to-ri-al struc
 -
  []
 
 
-Overfull \hbox (1.37187pt too wide) in paragraph at lines 51--54
+Overfull \hbox (1.37187pt too wide) in paragraph at lines 58--61
 [][]\OT1/cmr/m/n/9 J. Gal-l and V. Lem-pit-sky.  Class-specific hough forest-
  []
 
@@ -436,7 +436,7 @@ Overfull \hbox (1.37187pt too wide) in paragraph at lines 51--54
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \hbox (18.85739pt too wide) in paragraph at lines 153--157
+Overfull \hbox (18.85739pt too wide) in paragraph at lines 160--164
 [][]\OT1/cmr/m/n/9 Z. Wang, M. K-age-sawa, S. Ono, A. Ban-no, and K. Ikeuchi.
  []
 
@@ -452,8 +452,12 @@ Underfull \hbox (badness 2772) in paragraph at lines 325--327
 
 File: mk.jpg Graphic file (type eps)
 <mk.jpg>
+Overfull \vbox (5.00572pt too high) has occurred while \output is active []
+
+
+[6]
 File: os.jpg Graphic file (type eps)
- <os.jpg> [6]
+ <os.jpg>
 File: bc.jpg Graphic file (type eps)
  <bc.jpg>
 File: t.jpg Graphic file (type eps)
@@ -486,14 +490,14 @@ Underfull \hbox (badness 3965) in paragraph at lines 376--377
 \OT1/cmr/m/n/10 fer-ences, in-clud-ing 1995 IEEE-IROS (Gen-er-al),
  []
 
-[7] (M:\JoITSrTunnel\JoITSR.aux) ) 
+[7] (H:\tunnelJournal\JoITSR.aux) ) 
 Here is how much of TeX's memory you used:
- 4156 strings out of 495355
- 55222 string characters out of 3183882
- 143815 words of memory out of 3000000
- 7231 multiletter control sequences out of 15000+200000
+ 4157 strings out of 495355
+ 55238 string characters out of 3183882
+ 142815 words of memory out of 3000000
+ 7232 multiletter control sequences out of 15000+200000
  16151 words of font info for 57 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  43i,15n,40p,1390b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on JoITSR.dvi (7 pages, 56884 bytes).
+Output written on JoITSR.dvi (7 pages, 57340 bytes).

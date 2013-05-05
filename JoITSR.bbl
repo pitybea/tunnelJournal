@@ -26,6 +26,13 @@ N.~Dalal and B.~Triggs.
 \newblock In C.~Schmid, S.~Soatto, and C.~Tomasi, editors, {\em CVPR}, pages
   886--893, June 2005.
 
+\bibitem{nig}
+P.~Davidson, J.~Hautamaki, and J.~Collin.
+\newblock Using low-cost mems 3d accelerometer and one gyro to assist gps based
+  car navigation system.
+\newblock In {\em International Conference on Integrated Navigation Systems},
+  2008.
+
 \bibitem{ac2}
 P.~Felzenszwalb and D.~Huttenlocher.
 \newblock Pictorial structures for object recognition.
