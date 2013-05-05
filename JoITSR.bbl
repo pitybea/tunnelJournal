@@ -1,0 +1,180 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{ac9}
+O.~Barinova, V.~Lempitsky, and P.~Kohli.
+\newblock On detection of multiple object instances using hough transforms.
+\newblock In {\em CVPR}, pages 2233--2240, 2010.
+
+\bibitem{o2}
+H.~Bay, T.~Tuytelaars, and L.~Van~Gool.
+\newblock Surf: Speeded up robust features.
+\newblock In {\em ECCV}, pages 404--417, 2006.
+
+\bibitem{my9}
+G.~Brostow and R.~Cipolla.
+\newblock Unsupervised bayesian detection of independent motion in crowds.
+\newblock In {\em CVPR}, pages I: 594--601, 2006.
+
+\bibitem{ac24}
+T.~Brox and J.~Malik.
+\newblock Object segmentation by long term analysis of point trajectories.
+\newblock In {\em ECCV}, pages V: 282--295, 2010.
+
+\bibitem{ij4}
+N.~Dalal and B.~Triggs.
+\newblock Histograms of oriented gradients for human detection.
+\newblock In C.~Schmid, S.~Soatto, and C.~Tomasi, editors, {\em CVPR}, pages
+  886--893, June 2005.
+
+\bibitem{ac2}
+P.~Felzenszwalb and D.~Huttenlocher.
+\newblock Pictorial structures for object recognition.
+\newblock {\em IJCV}, 61(1):55--79, January 2005.
+
+\bibitem{ac31}
+P.~F. Felzenszwalb, D.~A. McAllester, and D.~Ramanan.
+\newblock A discriminatively trained, multiscale, deformable part model.
+\newblock In {\em CVPR}, 2008.
+
+\bibitem{ac3}
+R.~Fergus, P.~Perona, and A.~Zisserman.
+\newblock Object class recognition by unsupervised scale-invariant learning.
+\newblock In {\em CVPR}, pages II: 264--271, 2003.
+
+\bibitem{ac30}
+V.~Ferrari, F.~Jurie, and C.~Schmid.
+\newblock Accurate object detection with deformable shape models learnt from
+  images.
+\newblock In {\em CVPR}, 2007.
+
+\bibitem{ac6}
+J.~Gall and V.~Lempitsky.
+\newblock Class-specific hough forests for object detection.
+\newblock In {\em CVPR}, pages 1022--1029, 2009.
+
+\bibitem{my10}
+C.~Huang, B.~Wu, and R.~Nevatia.
+\newblock Robust object tracking by hierarchical association of detection
+  responses.
+\newblock In {\em ECCV}, pages II: 788--801, 2008.
+
+\bibitem{ha}
+H.~W. Kuhn.
+\newblock The hungarian method for the assignment problem.
+\newblock {\em Naval Research Logistics Quarterly}, pages 83--97, 1955.
+
+\bibitem{ac4}
+C.~Lampert, M.~Blaschko, and T.~Hofmann.
+\newblock Beyond sliding windows: Object localization by efficient subwindow
+  search.
+\newblock In {\em CVPR}, pages 1--8, 2008.
+
+\bibitem{ac27}
+A.~Lehmann, B.~Leibe, and L.~Van~Gool.
+\newblock Fast prism: Branch and bound hough transform for object class
+  detection.
+\newblock {\em IJCV}, 94(2):175--197, September 2011.
+
+\bibitem{ac22}
+B.~Leibe, N.~Cornelis, K.~Cornelis, and L.~Van~Gool.
+\newblock Dynamic 3d scene analysis from a moving vehicle.
+\newblock In {\em CVPR}, pages 1--8, 2007.
+
+\bibitem{lb1}
+B.~Leibe, A.~Leonardis, and B.~Schiele.
+\newblock Robust object detection with interleaved categorization and
+  segmentation.
+\newblock {\em IJCV}, 77(1-3):259--289, May 2008.
+
+\bibitem{ac5}
+B.~Leibe and B.~Schiele.
+\newblock Interleaved object categorization and segmentation.
+\newblock In {\em BMVC}, pages 759--768, 2003.
+
+\bibitem{my7}
+B.~Leibe, K.~Schindler, and L.~Van~Gool.
+\newblock Coupled detection and trajectory estimation for multi-object
+  tracking.
+\newblock In {\em ICCV}, pages 1--8, 2007.
+
+\bibitem{o12}
+D.~G. Lowe.
+\newblock Distinctive image features from scale-invariant keypoints.
+\newblock {\em IJCV}, 60:91--110, 2004.
+
+\bibitem{ac32}
+S.~Maji, A.~C. Berg, and J.~Malik.
+\newblock Classification using intersection kernel support vector machines is
+  efficient.
+\newblock In {\em CVPR}, 2008.
+
+\bibitem{ac10}
+S.~Maji and J.~Malik.
+\newblock Object detection using a max-margin hough transform.
+\newblock In {\em CVPR}, pages 1038--1045, 2009.
+
+\bibitem{ac21}
+K.~Mikolajczyk, B.~Leibe, and B.~Schiele.
+\newblock Multiple object class detection with a generative model.
+\newblock In {\em CVPR}, pages I: 26--36, 2006.
+
+\bibitem{ac18}
+K.~Ohba and K.~Ikeuchi.
+\newblock Detectability, uniqueness, and reliability of eigen windows for
+  stable verification of partially occluded objects.
+\newblock {\em PAMI}, 19(9):1043--1047, September 1997.
+
+\bibitem{ac7}
+R.~Okada.
+\newblock Discriminative generalized hough transform for object dectection.
+\newblock In {\em ICCV}, pages 2000--2005, 2009.
+
+\bibitem{ac34}
+O.~Russakovsky and A.~Ng.
+\newblock A steiner tree approach to efficient object detection.
+\newblock pages 1070--1077, 2010.
+
+\bibitem{ac29}
+H.~Schneiderman and T.~Kanade.
+\newblock Object detection using the statistics of parts.
+\newblock {\em IJCV}, 56(3):151--177, 2004.
+
+\bibitem{ac33}
+C.~Stauffer and W.~E.~L. Grimson.
+\newblock Adaptive background mixture models for real-time tracking.
+\newblock In {\em CVPR}, pages 2246--2252, 1999.
+
+\bibitem{ac28}
+P.~A. Viola and M.~J. Jones.
+\newblock Robust real-time face detection.
+\newblock {\em IJCV}, 57(2):137--154, 2004.
+
+\bibitem{wang1}
+Z.~Wang, M.~Kagesawa, S.~Ono, A.~Banno, and K.~Ikeuchi.
+\newblock Global 3d modeling and its evaluation for large-scale highway tunnel
+  using laser range sensor.
+\newblock In {\em ITS World Congress}, 2012.
+
+\bibitem{ac23}
+C.~Wojek, S.~Roth, K.~Schindler, and B.~Schiele.
+\newblock Monocular 3d scene modeling and inference: Understanding multi-object
+  traffic scenes.
+\newblock In {\em ECCV}, pages IV: 467--481, 2010.
+
+\bibitem{xue}
+L.~Xue, S.~Ono, A.~Banno, T.~Oishi, and K.~Ikeuchi.
+\newblock Global 3d modeling and its evaluation for large-scale highway tunnel
+  using laser range sensor.
+\newblock In {\em ITS World Congress}, 2012.
+
+\bibitem{ac25}
+P.~Yarlagadda, A.~Monroy, and B.~Ommer.
+\newblock Voting by grouping dependent parts.
+\newblock In {\em ECCV}, pages V: 197--210, 2010.
+
+\bibitem{ac1}
+T.~Yeh, J.~Lee, and T.~Darrell.
+\newblock Fast concurrent object localization and recognition.
+\newblock In {\em CVPR}, pages 280--287, 2009.
+
+\end{thebibliography}
