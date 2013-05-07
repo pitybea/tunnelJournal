@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2012.6.12)  6 MAY 2013 00:44
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2012.6.12)  7 MAY 2013 10:11
 entering extended mode
 **JoITSR.tex
 (H:\tunnelJournal\JoITSR.tex
@@ -379,10 +379,11 @@ Overfull \hbox (1.85905pt too wide) detected at line 130
 0 j\OML/cmm/m/it/10 l[] \OT1/cmr/m/n/10 = 1) = [] \OML/cmm/m/it/10 :
  []
 
+[2]
 File: 17Kptimg00039.jpg Graphic file (type eps)
-<17Kptimg00039.jpg>
+ <17Kptimg00039.jpg>
 File: 8Kptimg00028.jpg Graphic file (type eps)
- <8Kptimg00028.jpg> [2]
+ <8Kptimg00028.jpg>
 File: 17VeriKptimg00039.jpg Graphic file (type eps)
  <17VeriKptimg00039.jpg>
 File: 8VeriKptimg00028.jpg Graphic file (type eps)
@@ -433,9 +434,6 @@ Overfull \hbox (1.37187pt too wide) in paragraph at lines 58--61
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \hbox (18.85739pt too wide) in paragraph at lines 160--164
 [][]\OT1/cmr/m/n/9 Z. Wang, M. K-age-sawa, S. Ono, A. Ban-no, and K. Ikeuchi.
  []
@@ -451,11 +449,7 @@ Underfull \hbox (badness 2772) in paragraph at lines 325--327
  []
 
 File: mk.jpg Graphic file (type eps)
-<mk.jpg>
-Overfull \vbox (5.00572pt too high) has occurred while \output is active []
-
-
-[6]
+<mk.jpg> [6]
 File: os.jpg Graphic file (type eps)
  <os.jpg>
 File: bc.jpg Graphic file (type eps)
@@ -490,7 +484,11 @@ Underfull \hbox (badness 3965) in paragraph at lines 376--377
 \OT1/cmr/m/n/10 fer-ences, in-clud-ing 1995 IEEE-IROS (Gen-er-al),
  []
 
-[7] (H:\tunnelJournal\JoITSR.aux) ) 
+[7] (H:\tunnelJournal\JoITSR.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  4157 strings out of 495355
  55238 string characters out of 3183882
@@ -500,4 +498,4 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  43i,15n,40p,1390b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on JoITSR.dvi (7 pages, 57340 bytes).
+Output written on JoITSR.dvi (7 pages, 57672 bytes).
