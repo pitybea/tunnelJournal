@@ -13,7 +13,7 @@
 \usepackage{authblk}
 \usepackage{abstract}
 \usepackage{comment}
-\usepackage{picins}
+\usepackage{wrapfig}
 \usepackage[normalem]{ulem}
 \usepackage{url}
 \renewcommand\Authands{, }
@@ -52,9 +52,9 @@ Positioning of automobiles is important for ITS. In tunnel environment, most pos
 
 \section{Introduction}
 % no \IEEEPARstart
-Positioning of automobiles acts a fundamental role in autonomous driving, and it is also of great importance for driving assistance, vehicle navigation, etc. When GPS sensors function properly, it is usually easy for an automobile to estimate the position of  itself. While in tunnel environment, for most of the time, there is no GPS signals available. A new positioning system which functions properly in tunnel environment is very necessary~\cite{nig}.
+Positioning of automobiles acts a fundamental role in autonomous driving, and it is also of great importance for driving assistance, vehicle navigation, etc. When GPS sensors function properly, it is usually easy for an automobile to estimate the position of  itself. While in tunnel environment, for most of the time, there is no GPS signals available. A new positioning system which functions properly in tunnel environment is very necessary~\cite{nig}. We have tackled this issue as a part of automated driving system in a NEDO project, "Development of Energy-saving ITS Technologies".
 
-In most tunnels which appear on express ways in Japan, there are lots of signs which appear at equal intervals. We focus on the emergency telephone indicators, which appear every 200 meters in tunnels. The absolute coordinates of the emergency telephone indicators can be obtained by the method of~\cite{xue}. While travelling in tunnels, if the emergency telephone indicators can be sensed, and the distance from the automobile to the indicators can be estimated, then the absolute position of the automobile can be inferred. Detection methods i.e.~\cite{ac23} based on ordinary cameras fail due to darkness. Here we use infrared cameras, which are usually equipped by recent intelligent vehicles, and which are suitable in dark environment. Inspired by a previous work~\cite{wang1}, we propose an approach to detecting emergency telephone indicators by using infrared cameras.
+In most tunnels which appear on express ways in Japan, there are lots of signs which appear at equal intervals. We focus on the emergency telephone indicators, which appear every 200 meters in tunnels. The absolute coordinates of the emergency telephone indicators can be obtained by the method of~\cite{xue}. While travelling in tunnels, if the emergency telephone indicators can be sensed, and the distance from the automobile to the indicators can be estimated, then the absolute position of the automobile can be inferred. Detection methods i.e.~\cite{ac23} based on ordinary cameras fail due to darkness. Here we use infrared cameras, which are usually equipped by recent intelligent vehicles, and which are suitable in dark environment. Moreover, far-infrared stereo system is developping in our automated driving system. Inspired by a previous work~\cite{wang1}, we propose an approach to detecting emergency telephone indicators by using infrared cameras.
 
 Detection performance and efficiency are the two important aspects of our method.
 
@@ -284,7 +284,7 @@ More detection results are shown in Figure \ref{fig:sixs}.
 \begin{tabular}{lll}
      \hline
      \hline
-    total number &	472 + 3304  \\
+    total number &	472  \\
     correctly labeled &	468   \\
     miss detections &	4 &	  \\
     false alarms &	22    \\
@@ -310,7 +310,7 @@ We propose an object detection method to detect emergency telephone indicators i
 \section*{Acknowledgment}
 
 
-The work is in part supported by the NEDO project. The first author is sponsored by China Scholarship Council.
+The work is in part supported by NEDO. The first author is sponsored by China Scholarship Council.
 
 
 
@@ -319,63 +319,6 @@ The work is in part supported by the NEDO project. The first author is sponsored
 \bibliographystyle{ieee}
 \bibliography{egbib}
 }
-
-
-\parpic{\includegraphics[width=0.13\textwidth,bb=0 0 600 800]{wzp.jpg}}
-\noindent {\bf Zhipeng Wang} received his B.S. degree in Industrial Engineering from Tsinghua University, China, in 2007. He received his M.S. degree in Computer Applied Technology
-  from Peking University, 2010 and is currently a Ph.D. student in the Department of Computer Science, the University of Tokyo. His research interests are in the areas of computer vision and machine learning.
-
-
-
-
-
-\parpic{\includegraphics[width=0.13\textwidth,bb=0 0 480 640]{mk.jpg}}
-\noindent {\bf Masataka Kagesawa} received the BS degree in mathematics in 1986
-from Chiba University, Japan, the MS degree in mathematics
-from Tokyo Metropolitan University in 1988.  He was a doctor
-course student at Tokyo Metropolitan University from 1988 to
-1990.  From 1990 to 1994, he was a technical associate at the
-Institute of Industrial Science, the university of Tokyo.
-He is now a research associate at the same institute.
-He received the PhD degree in electronic engineering in 2003 from the
-university of Tokyo.
-His research
-interests include traffic simulation with dynamic information,
-traffic management systems and sensing systems on Intelligent
-Road Traffic Systems.
-
-\parpic{\includegraphics[width=0.13\textwidth,bb=0 0 120 160]{os.jpg}}
-\noindent {\bf Shintaro Ono} received the BE degree in 2001 and PhD degree in 2006 from The University of Tokyo.
-Currently he is a Project Associate Professor in Advanced Mobility Research Center (ITS Center), The University of Tokyo.
-His research interests include sensing system and computer vision/graphics for ITS, and digital archiving of cultural heritage objects.
-
-\parpic{\includegraphics[width=0.13\textwidth,bb=0 0 256 320]{bc.jpg}}
-\noindent {\bf Atsuhiko Banno}
-received his M. Eng. degree from the University of Tokyo in 1996.
-He had worked in National Research Institute of Police Science.
-He received his Ph.D. degree in information science and technology from
-the University of Tokyo in 2006.
-After working at Institute of Industrial Science, the University of Tokyo,
-he is currently a senior research scientist of Advances Industrial
-Science and Technology (AIST).
-His current research interests are 3D reconstruction from images and
-robot vision.
-
-\parpic{\includegraphics[width=0.13\textwidth,bb=0 0 134 172]{t.jpg}}
-\noindent {\bf Takeshi Oishi} is an Associate Professor at Institute of Industrial
-Science, the University of Tokyo. He received the B.Eng. degree in
-Electrical Engineering from Keio University in 1999, and the Ph.D.
-degree in Interdisciplinary Information Studies from the University of
-Tokyo in 2005. His research interests are in modeling from reality,
-digital archiving and augmented/mixed reality.
-
-
-\parpic{\includegraphics[width=0.13\textwidth,bb=0 0 354 472]{ki.jpg}}
-\noindent {\bf Katsushi Ikeuchi}  is a Professor at the Institute of Industrial Science, the　University of Tokyo, Tokyo, Japan. He received the Ph.D. degree in　Information Engineering from the University of Tokyo, Tokyo, Japan, in 1978.　After working at the Artificial Intelligence Laboratory, MIT for three　years, the Electrotechnical Laboratory, MITI for five years, and the School　of Computer Science, Carnegie Mellon University for ten years, he joined the　university in 1996.
-
-He has served (or will serve) as the program/general chairman of several　international conferences, including 1995 IEEE-IROS (General), 1996　IEEE-CVPR (Program), 1999 IEEE-ITSC (General) and 2003 ICCV (Program). He is an Editor-in-Chief of the International Journal of Computer Vision. He has been a fellow of IEEE since 1998. He was selected as a distinguished lecture of IEEE SP society for the period of 2000-2001.
-
-He has received several awards, including the David Marr Prize in computational vision, IEEE RA society K-S Fu memorial best transaction paper award, Computer Vision Significant Researcher Award, and Medal with Purple Ribbon. In addition, in 1992, his paper, "Numerical Shape from Shading and Occluding Boundaries," was selected as one of the most influential papers to have appeared in Artificial Intelligence Journal within the past ten years.
 
 
 

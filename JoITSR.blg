@@ -1,8 +1,10 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: JoITSR.aux
+This is BibTeX, Version 0.99d (TeX Live 2012/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: JoITSR.aux
 The style file: ieee.bst
 Database file #1: egbib.bib
 Warning--string name "cvpr10" is undefined
---line 915 of file egbib.bib
+--line 1829 of file egbib.bib
 A bad cross reference---entry "ac31"
 refers to entry "DBLP:conf/cvpr/2008", which doesn't exist
 A bad cross reference---entry "ac30"
@@ -15,4 +17,45 @@ Warning--I didn't find a database entry for "DBLP:conf/cvpr/2007"
 Warning--I didn't find a database entry for "DBLP:conf/cvpr/2008"
 Warning--I didn't find a database entry for "DBLP:conf/cvpr/1999"
 Warning--empty booktitle in ac34
+You've used 34 entries,
+            2120 wiz_defined-function locations,
+            665 strings with 7777 characters,
+and the built_in function-call counts, 14516 in all, are:
+= -- 1421
+> -- 560
+< -- 21
++ -- 220
+- -- 183
+* -- 881
+:= -- 2107
+add.period$ -- 102
+call.type$ -- 34
+change.case$ -- 192
+chr.to.int$ -- 0
+cite$ -- 35
+duplicate$ -- 684
+empty$ -- 1249
+format.name$ -- 183
+if$ -- 3327
+int.to.chr$ -- 0
+int.to.str$ -- 34
+missing$ -- 34
+newline$ -- 173
+num.names$ -- 70
+pop$ -- 263
+preamble$ -- 1
+purify$ -- 158
+quote$ -- 0
+skip$ -- 587
+stack$ -- 0
+substring$ -- 1021
+swap$ -- 292
+text.length$ -- 21
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 136
+warning$ -- 1
+while$ -- 121
+width$ -- 36
+write$ -- 369
 (There were 4 error messages)

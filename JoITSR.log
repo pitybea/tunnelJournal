@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2012.6.12)  7 MAY 2013 10:11
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2012.6.16)  2 AUG 2013 18:26
 entering extended mode
 **JoITSR.tex
-(H:\tunnelJournal\JoITSR.tex
+(F:\tunnelJournal\JoITSR.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
-(H:\tunnelJournal\JoITSRstyle.cls
-Document Class: JoITSRstyle 2010/10/13 v1.0 MVA2011 LaTeX class file
+(F:\tunnelJournal\JoITSRstyle.cls
+Document Class: JoITSRstyle 2013/04/13 v1.0 JoITSRstyle LaTeX class file
 (C:\CTEX\MiKTeX\tex\latex\base\article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (C:\CTEX\MiKTeX\tex\latex\base\size10.clo
@@ -244,68 +244,30 @@ Package: abstract 2009/06/08 v1.2a configurable abstracts
 (C:\CTEX\MiKTeX\tex\latex\comment\comment.sty
 \CommentStream=\write3
  Excluding comment 'comment')
-(C:\CTEX\MiKTeX\tex\latex\picins\picins.sty
-Option `picins' Version 3.0 Sep. 1992, TH Darmstadt/HRZ
-\@BILD=\box30
-\@TEXT=\box31
-\d@breite=\dimen125
-\d@hoehe=\dimen126
-\d@xoff=\dimen127
-\d@yoff=\dimen128
-\d@shad=\dimen129
-\d@dash=\dimen130
-\d@boxl=\dimen131
-\d@pichskip=\dimen132
-\d@tmp=\dimen133
-\d@tmpa=\dimen134
-\d@bskip=\dimen135
-\hsiz@=\dimen136
-\p@getot@l=\dimen137
-\c@breite=\count113
-\c@hoehe=\count114
-\c@xoff=\count115
-\c@yoff=\count116
-\c@pos=\count117
-\c@shad=\count118
-\c@dash=\count119
-\c@boxl=\count120
-\c@zeilen=\count121
-\@changemode=\count122
-\c@piccaption=\count123
-\c@piccaptionpos=\count124
-\c@picpos=\count125
-\c@whole=\count126
-\c@half=\count127
-\c@tmp=\count128
-\c@tmpa=\count129
-\c@tmpb=\count130
-\c@tmpc=\count131
-\c@tmpd=\count132
-\d@leftskip=\skip63
-\ptoti=\dimen138
-\ptotii=\dimen139
-\env@box=\box32
-\d@envdp=\dimen140
-\c@hsize=\count133
-\c@envdp=\count134
-\d@envb=\dimen141
+(C:\CTEX\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+\wrapoverhang=\dimen125
+\WF@size=\dimen126
+\c@WF@wrappedlines=\count113
+\WF@box=\box30
+\WF@everypar=\toks23
+Package: wrapfig 2003/01/31  v 3.6
 )
 (C:\CTEX\MiKTeX\tex\latex\ulem\ulem.sty
-\UL@box=\box33
-\UL@hyphenbox=\box34
-\UL@skip=\skip64
-\UL@hook=\toks23
-\UL@height=\dimen142
-\UL@pe=\count135
-\UL@pixel=\dimen143
-\ULC@box=\box35
+\UL@box=\box31
+\UL@hyphenbox=\box32
+\UL@skip=\skip63
+\UL@hook=\toks24
+\UL@height=\dimen127
+\UL@pe=\count114
+\UL@pixel=\dimen128
+\ULC@box=\box33
 Package: ulem 2011/03/18
-\ULdepth=\dimen144
+\ULdepth=\dimen129
 )
 (C:\CTEX\MiKTeX\tex\latex\ltxmisc\url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
-) (H:\tunnelJournal\JoITSR.aux)
+) (F:\tunnelJournal\JoITSR.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
@@ -320,8 +282,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
-Package caption Info: picins package is loaded.
 Package caption Info: subfigure package is loaded.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 49.
 
@@ -411,7 +373,7 @@ File: 19veriTrjimg00041.jpg Graphic file (type eps)
  <19veriTrjimg00041.jpg>
 File: 3veriTrjimg00023.jpg Graphic file (type eps)
  <3veriTrjimg00023.jpg>
-(H:\tunnelJournal\JoITSR.bbl
+(F:\tunnelJournal\JoITSR.bbl
 
 Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
@@ -438,64 +400,14 @@ Overfull \hbox (18.85739pt too wide) in paragraph at lines 160--164
 [][]\OT1/cmr/m/n/9 Z. Wang, M. K-age-sawa, S. Ono, A. Ban-no, and K. Ikeuchi.
  []
 
-)
-File: wzp.jpg Graphic file (type eps)
- <wzp.jpg>
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 325.
-
-Underfull \hbox (badness 2772) in paragraph at lines 325--327
-\OT1/cmr/m/n/10 He re-ceived his M.S. de-gree in
- []
-
-File: mk.jpg Graphic file (type eps)
-<mk.jpg> [6]
-File: os.jpg Graphic file (type eps)
- <os.jpg>
-File: bc.jpg Graphic file (type eps)
- <bc.jpg>
-File: t.jpg Graphic file (type eps)
- <t.jpg>
-File: ki.jpg Graphic file (type eps)
- <ki.jpg>
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-
-Underfull \hbox (badness 3942) in paragraph at lines 376--377
-[][]\OT1/cmr/m/n/10 He has served (or will serve) as the pro-
- []
-
-
-Underfull \hbox (badness 3965) in paragraph at lines 376--377
-\OT1/cmr/m/n/10 fer-ences, in-clud-ing 1995 IEEE-IROS (Gen-er-al),
- []
-
-[7] (H:\tunnelJournal\JoITSR.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+) [6] (F:\tunnelJournal\JoITSR.aux) ) 
 Here is how much of TeX's memory you used:
- 4157 strings out of 495355
- 55238 string characters out of 3183882
- 142815 words of memory out of 3000000
- 7232 multiletter control sequences out of 15000+200000
- 16151 words of font info for 57 fonts, out of 3000000 for 9000
+ 4096 strings out of 495355
+ 54875 string characters out of 3183882
+ 127339 words of memory out of 3000000
+ 7178 multiletter control sequences out of 15000+200000
+ 15632 words of font info for 56 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,15n,40p,1390b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,15n,40p,1390b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on JoITSR.dvi (7 pages, 57672 bytes).
+Output written on JoITSR.dvi (6 pages, 51160 bytes).

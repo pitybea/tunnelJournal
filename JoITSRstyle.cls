@@ -1,7 +1,7 @@
 
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{JoITSRstyle}[2010/10/13 v1.0 MVA2011 LaTeX class file]
+\ProvidesClass{JoITSRstyle}[2013/04/13 v1.0 JoITSRstyle LaTeX class file]
 \LoadClass[10pt,a4paper,twocolumn]{article}
 \usepackage{balance}
 %\usepackage[font=small,labelfont=bf]{caption}
@@ -114,6 +114,8 @@
 \newlength{\@ctmp}
 \newlength{\@figindent}
 \setlength{\@figindent}{1pc}
+
+
 
 
 \usepackage[font=small,labelfont=bf]{caption}
