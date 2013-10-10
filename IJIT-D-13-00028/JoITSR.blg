@@ -1,0 +1,18 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: JoITSR.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--string name "cvpr10" is undefined
+--line 915 of file egbib.bib
+A bad cross reference---entry "ac31"
+refers to entry "DBLP:conf/cvpr/2008", which doesn't exist
+A bad cross reference---entry "ac30"
+refers to entry "DBLP:conf/cvpr/2007", which doesn't exist
+A bad cross reference---entry "ac32"
+refers to entry "DBLP:conf/cvpr/2008", which doesn't exist
+A bad cross reference---entry "ac33"
+refers to entry "DBLP:conf/cvpr/1999", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/cvpr/2007"
+Warning--I didn't find a database entry for "DBLP:conf/cvpr/2008"
+Warning--I didn't find a database entry for "DBLP:conf/cvpr/1999"
+Warning--empty booktitle in ac34
+(There were 4 error messages)
