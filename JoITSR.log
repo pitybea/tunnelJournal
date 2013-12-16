@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2012.6.16)  2 AUG 2013 18:26
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2012.6.16)  5 DEC 2013 20:38
 entering extended mode
 **JoITSR.tex
 (F:\tunnelJournal\JoITSR.tex
@@ -400,14 +400,27 @@ Overfull \hbox (18.85739pt too wide) in paragraph at lines 160--164
 [][]\OT1/cmr/m/n/9 Z. Wang, M. K-age-sawa, S. Ono, A. Ban-no, and K. Ikeuchi.
  []
 
-) [6] (F:\tunnelJournal\JoITSR.aux) ) 
+) [6]
+File: wzp.jpg Graphic file (type eps)
+ <wzp.jpg>
+File: mk.jpg Graphic file (type eps)
+ <mk.jpg>
+File: os.jpg Graphic file (type eps)
+ <os.jpg>
+File: bc.jpg Graphic file (type eps)
+ <bc.jpg>
+File: t.jpg Graphic file (type eps)
+ <t.jpg>
+File: ki.jpg Graphic file (type eps)
+ <ki.jpg> [7]
+(F:\tunnelJournal\JoITSR.aux) ) 
 Here is how much of TeX's memory you used:
- 4096 strings out of 495355
- 54875 string characters out of 3183882
+ 4108 strings out of 495355
+ 54947 string characters out of 3183882
  127339 words of memory out of 3000000
- 7178 multiletter control sequences out of 15000+200000
+ 7184 multiletter control sequences out of 15000+200000
  15632 words of font info for 56 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  43i,15n,40p,1390b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on JoITSR.dvi (6 pages, 51160 bytes).
+Output written on JoITSR.dvi (7 pages, 51760 bytes).

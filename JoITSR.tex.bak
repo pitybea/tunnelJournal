@@ -289,7 +289,7 @@ More detection results are shown in Figure \ref{fig:sixs}.
     miss detections &	4 &	  \\
     false alarms &	22    \\
     detection rate &	99.2\% &	  \\
-    false alarm rate &	0.7\% &	   \\
+    false alarm rate &	4.4\% &	   \\
    \hline
 \end{tabular}
 \caption{Detection rate and false alarm rate.}\label{tb:tb2}
@@ -322,10 +322,84 @@ The work is in part supported by NEDO. The first author is sponsored by China Sc
 
 
 
+\newpage
+\begin{wrapfigure}[8]{L}{0.1\textwidth}
+   \includegraphics[width=0.13\textwidth,bb=0 0 600 800]{wzp.jpg}
+\end{wrapfigure}
+ \noindent {\bf Zhipeng Wang} received his B.S. degree in Industrial Engineering from Tsinghua University, China, in 2007. He received his M.S. degree in Computer Applied Technology
+  from Peking University, 2010 and is currently a Ph.D. student in the Department of Computer Science, the University of Tokyo. His research interests are in the areas of computer vision and machine learning.
+\newline
+
+\begin{wrapfigure}[8]{L}{0.1\textwidth}
+\vspace{-12pt}
+\includegraphics[width=0.13\textwidth,bb=0 0 480 640]{mk.jpg}
+\end{wrapfigure}
+\noindent {\bf Masataka Kagesawa} received the BS degree in mathematics in 1986
+from Chiba University, Japan, the MS degree in mathematics
+from Tokyo Metropolitan University in 1988.  He was a doctor
+course student at Tokyo Metropolitan University from 1988 to
+1990.  From 1990 to 1994, he was a technical associate at the
+Institute of Industrial Science, the university of Tokyo.
+He is now a research associate at the same institute.
+He received the PhD degree in electronic engineering in 2003 from the
+university of Tokyo.
+His research
+interests include traffic simulation with dynamic information,
+traffic management systems and sensing systems on Intelligent
+Road Traffic Systems.
+\newline
+
+\begin{wrapfigure}[8]{L}{0.1\textwidth}
+ \vspace{-12pt}
+\includegraphics[width=0.13\textwidth,bb=0 0 120 160]{os.jpg}
+\end{wrapfigure}
+\noindent {\bf Shintaro Ono} received the BE degree in 2001 and PhD degree in 2006 from The University of Tokyo.
+Currently he is a Project Associate Professor in Advanced Mobility Research Center (ITS Center), The University of Tokyo.
+His research interests include sensing system and computer vision/graphics for ITS, and digital archiving of cultural heritage objects.
+\newline
+
+\begin{wrapfigure}[8]{L}{0.1\textwidth}
+ \vspace{-12pt}
+\includegraphics[width=0.13\textwidth,bb=0 0 256 320]{bc.jpg}
+\end{wrapfigure}
+\noindent {\bf Atsuhiko Banno}
+received his M. Eng. degree from the University of Tokyo in 1996.
+He had worked in National Research Institute of Police Science.
+He received his Ph.D. degree in information science and technology from
+the University of Tokyo in 2006.
+After working at Institute of Industrial Science, the University of Tokyo,
+he is currently a senior research scientist of Advances Industrial
+Science and Technology (AIST).
+His current research interests are 3D reconstruction from images and
+robot vision.
+\newline
+
+\begin{wrapfigure}[8]{L}{0.1\textwidth}
+ \vspace{-12pt}
+\includegraphics[width=0.13\textwidth,bb=0 0 134 172]{t.jpg}
+\end{wrapfigure}
+\noindent {\bf Takeshi Oishi} is an Associate Professor at Institute of Industrial
+Science, the University of Tokyo. He received the B.Eng. degree in
+Electrical Engineering from Keio University in 1999, and the Ph.D.
+degree in Interdisciplinary Information Studies from the University of
+Tokyo in 2005. His research interests are in modeling from reality,
+digital archiving and augmented/mixed reality.
+\newline
+
+\begin{wrapfigure}[8]{L}{0.1\textwidth}
+ \vspace{-12pt}
+\includegraphics[width=0.13\textwidth,bb=0 0 354 472]{ki.jpg}
+\end{wrapfigure}
+\noindent {\bf Katsushi Ikeuchi}  is a Professor at the Institute of Industrial Science, the　University of Tokyo, Tokyo, Japan. He received the Ph.D. degree in　Information Engineering from the University of Tokyo, Tokyo, Japan, in 1978.　After working at the Artificial Intelligence Laboratory, MIT for three　years, the Electrotechnical Laboratory, MITI for five years, and the School　of Computer Science, Carnegie Mellon University for ten years, he joined the　university in 1996.
+
+He has served (or will serve) as the program/general chairman of several　international conferences, including 1995 IEEE-IROS (General), 1996　IEEE-CVPR (Program), 1999 IEEE-ITSC (General) and 2003 ICCV (Program). He is an Editor-in-Chief of the International Journal of Computer Vision. He has been a fellow of IEEE since 1998. He was selected as a distinguished lecture of IEEE SP society for the period of 2000-2001.
+
+He has received several awards, including the David Marr Prize in computational vision, IEEE RA society K-S Fu memorial best transaction paper award, Computer Vision Significant Researcher Award, and Medal with Purple Ribbon. In addition, in 1992, his paper, "Numerical Shape from Shading and Occluding Boundaries," was selected as one of the most influential papers to have appeared in Artificial Intelligence Journal within the past ten years.
 
 
-
-
+\begin{biography}[ki.jpg]{Katende Allan}
+  was born in  Rubaga,Wakiso District, on the 6th of August 1989...
+\end{biography}
 
 
 \end{document}
